@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "apiport": {
+      "type": "http",
+      "url": "https://apiport.ae/mcp"
+    }
+  }
+}
